@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/opentelemetry-collector-contrib:v20221114
+FROM open-telemetry/opentelemetry-collector-contrib:v20221114
