@@ -1,1 +1,1 @@
-lcl的gcr.io镜像仓库
+lcl的centos7k8s镜像仓库
